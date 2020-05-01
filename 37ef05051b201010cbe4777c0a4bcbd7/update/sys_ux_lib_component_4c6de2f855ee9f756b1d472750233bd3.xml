@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component">
+    <sys_ux_lib_component action="INSERT_OR_UPDATE">
+        <default_children/>
+        <default_layout/>
+        <deprecated>false</deprecated>
+        <overrides/>
+        <required_sys_props/>
+        <required_translation_keys/>
+        <source_script display_value="snc-toolbox-loader">e54a78663f9edd80286f68ce66d61950</source_script>
+        <source_script_name/>
+        <sys_class_name>sys_ux_lib_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 12:04:15</sys_created_on>
+        <sys_id>4c6de2f855ee9f756b1d472750233bd3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>snc-avatar</sys_name>
+        <sys_package display_value="snc-toolbox-loader" source="x_snc_t00lb0x4">37ef05051b201010cbe4777c0a4bcbd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc-toolbox-loader">37ef05051b201010cbe4777c0a4bcbd7</sys_scope>
+        <sys_update_name>sys_ux_lib_component_4c6de2f855ee9f756b1d472750233bd3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 12:04:15</sys_updated_on>
+        <tag>snc-avatar</tag>
+    </sys_ux_lib_component>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_macroponent">
+    <sys_ux_macroponent action="INSERT_OR_UPDATE">
+        <associated_types>d8899a0473000010f7353c78caf6a750</associated_types>
+        <component_dependencies/>
+        <composition>[]</composition>
+        <data/>
+        <events/>
+        <extends/>
+        <interactions/>
+        <layout>{}</layout>
+        <macroponent_dependencies/>
+        <name>Button</name>
+        <props>[]</props>
+        <root_component display_value="snc-button">013925840f158b785a4f1dbef1c60016</root_component>
+        <root_component_config>{}</root_component_config>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_macroponent</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 12:04:25</sys_created_on>
+        <sys_id>5218023521aead872bf2dbc4cace4127</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Button</sys_name>
+        <sys_package display_value="snc-toolbox-loader" source="x_snc_t00lb0x4">37ef05051b201010cbe4777c0a4bcbd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc-toolbox-loader">37ef05051b201010cbe4777c0a4bcbd7</sys_scope>
+        <sys_update_name>sys_ux_macroponent_5218023521aead872bf2dbc4cace4127</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 12:04:25</sys_updated_on>
+    </sys_ux_macroponent>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <description/>
+        <icon>loader-outline</icon>
+        <label>Loader</label>
+        <macroponent display_value="Loader">d36dab21036e8c30545674b59b1cd1d5</macroponent>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 12:04:34</sys_created_on>
+        <sys_id>b88572b258eccd7901f7ed5612bd5ee0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loader</sys_name>
+        <sys_package display_value="snc-toolbox-loader" source="x_snc_t00lb0x4">37ef05051b201010cbe4777c0a4bcbd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc-toolbox-loader">37ef05051b201010cbe4777c0a4bcbd7</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_b88572b258eccd7901f7ed5612bd5ee0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 12:04:34</sys_updated_on>
+    </sys_uib_toolbox_component>
+</record_update>

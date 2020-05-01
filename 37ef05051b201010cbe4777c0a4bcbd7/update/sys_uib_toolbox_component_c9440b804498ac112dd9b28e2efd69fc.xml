@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <description/>
+        <icon>grid-three-outline</icon>
+        <label>Form</label>
+        <macroponent display_value="Form">d1516530e9a60a92ac73be25d356f961</macroponent>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-01 12:04:32</sys_created_on>
+        <sys_id>c9440b804498ac112dd9b28e2efd69fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Form</sys_name>
+        <sys_package display_value="snc-toolbox-loader" source="x_snc_t00lb0x4">37ef05051b201010cbe4777c0a4bcbd7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="snc-toolbox-loader">37ef05051b201010cbe4777c0a4bcbd7</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_c9440b804498ac112dd9b28e2efd69fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-01 12:04:32</sys_updated_on>
+    </sys_uib_toolbox_component>
+</record_update>
